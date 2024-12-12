@@ -1,26 +1,26 @@
 {
-    "version": "0.24.2",
+    "version": "0.24.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.2/meteor-windows-386.zip",
+            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.3/meteor-windows-386.zip",
             "bin": [
                 "meteor.exe"
             ],
-            "hash": "6ca3ab4cbe0fa9df4937750492871aa989586922d7960c6556debdd1cd686379"
+            "hash": "87e0928700246be8479e0efa94805a4675c80999793a306ed08c7f09b63f153a"
         },
         "64bit": {
-            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.2/meteor-windows-amd64.zip",
+            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.3/meteor-windows-amd64.zip",
             "bin": [
                 "meteor.exe"
             ],
-            "hash": "08fa9b2a7c6d677d85e5e2dcbcc394ff62d151b49acd0e010826dc7a12762152"
+            "hash": "faaf54ae822ea732554ab44253ee8049e192b7f0a2edc35d0b469f792c9f34b6"
         },
         "arm64": {
-            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.2/meteor-windows-arm64.zip",
+            "url": "https://github.com/stefanlogue/meteor/releases/download/v0.24.3/meteor-windows-arm64.zip",
             "bin": [
                 "meteor.exe"
             ],
-            "hash": "57304ac03539f64f51605b242fa29e5065c901d5f396a7bdf947f9f379435dcc"
+            "hash": "e098da98bf5de374d7164d0012dc60c8730a38a0d4fd615e21d1c3fc04d04c12"
         }
     },
     "homepage": "https://github.com/stefanlogue/meteor",
